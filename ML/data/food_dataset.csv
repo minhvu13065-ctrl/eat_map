@@ -1,0 +1,76 @@
+meal,budget,group,taste,spicy,food_label
+sang,cheap,solo,fast,none,Bánh Mì
+sang,cheap,solo,fast,mild,Bánh Mì
+sang,mid,solo,soup,none,Phở Bò
+sang,mid,couple,soup,none,Phở Bò
+sang,mid,family,soup,mild,Phở Bò
+sang,high,solo,light,none,Salad & Acai Bowl
+sang,high,couple,light,none,Salad & Acai Bowl
+sang,mid,solo,soup,none,Bánh Canh Cua
+sang,mid,couple,soup,mild,Bánh Canh Cua
+sang,cheap,solo,light,none,Gỏi Cuốn
+trua,cheap,solo,fast,none,Bánh Mì
+trua,cheap,solo,fast,mild,Bánh Mì
+trua,mid,solo,soup,none,Phở Bò
+trua,mid,couple,soup,mild,Phở Bò
+trua,mid,solo,grill,none,Cơm Tấm
+trua,mid,couple,grill,mild,Cơm Tấm
+trua,cheap,solo,grill,none,Cơm Tấm
+trua,mid,solo,soup,medium,Bún Bò Huế
+trua,mid,couple,soup,max,Bún Bò Huế
+trua,mid,solo,grill,mild,Bún Thịt Nướng
+trua,mid,couple,grill,none,Bún Thịt Nướng
+trua,cheap,solo,fast,none,Cơm Chiên Dương Châu
+trua,mid,solo,light,none,Gỏi Cuốn
+trua,mid,couple,light,none,Gỏi Cuốn
+trua,high,solo,light,none,Salad & Acai Bowl
+trua,mid,family,soup,none,Bánh Canh Cua
+trua,mid,solo,soup,none,Bánh Canh Cua
+toi,mid,solo,soup,none,Phở Bò
+toi,mid,couple,soup,none,Phở Bò
+toi,mid,solo,grill,none,Cơm Tấm
+toi,mid,couple,grill,mild,Cơm Tấm
+toi,mid,solo,soup,medium,Bún Bò Huế
+toi,mid,couple,soup,max,Bún Bò Huế
+toi,mid,solo,grill,mild,Bún Thịt Nướng
+toi,high,group,soup,medium,Lẩu Thái
+toi,high,family,soup,max,Lẩu Thái
+toi,vip,group,soup,medium,Lẩu Thái
+toi,high,group,fast,medium,Mì Cay Hàn Quốc
+toi,mid,couple,fast,max,Mì Cay Hàn Quốc
+toi,mid,solo,fast,none,Cơm Chiên Dương Châu
+toi,high,group,grill,none,Thịt Nướng BBQ
+toi,vip,family,grill,mild,Thịt Nướng BBQ
+toi,vip,group,grill,medium,Thịt Nướng BBQ
+toi,mid,couple,light,none,Gỏi Cuốn
+toi,mid,family,soup,none,Bánh Canh Cua
+khuya,cheap,solo,fast,none,Bánh Mì
+khuya,cheap,couple,fast,mild,Bánh Mì
+khuya,mid,couple,fast,max,Mì Cay Hàn Quốc
+khuya,mid,group,fast,medium,Mì Cay Hàn Quốc
+khuya,mid,solo,fast,none,Cơm Chiên Dương Châu
+khuya,mid,couple,fast,mild,Cơm Chiên Dương Châu
+khuya,high,group,soup,medium,Lẩu Thái
+khuya,high,couple,soup,max,Lẩu Thái
+sang,cheap,solo,fast,none,Bánh Mì
+sang,mid,family,soup,none,Phở Bò
+trua,high,family,grill,none,Thịt Nướng BBQ
+toi,cheap,solo,fast,mild,Cơm Chiên Dương Châu
+trua,mid,solo,soup,mild,Bún Bò Huế
+toi,mid,family,soup,mild,Bún Bò Huế
+sang,cheap,couple,fast,none,Bánh Mì
+trua,vip,group,grill,none,Thịt Nướng BBQ
+toi,high,couple,fast,max,Mì Cay Hàn Quốc
+trua,mid,family,soup,none,Phở Bò
+sang,mid,solo,soup,mild,Bánh Canh Cua
+toi,mid,solo,grill,none,Bún Thịt Nướng
+trua,high,couple,light,none,Salad & Acai Bowl
+khuya,mid,solo,fast,medium,Mì Cay Hàn Quốc
+toi,cheap,solo,fast,none,Bánh Mì
+sang,mid,couple,soup,none,Bánh Canh Cua
+trua,mid,group,grill,mild,Bún Thịt Nướng
+toi,vip,group,grill,none,Thịt Nướng BBQ
+sang,cheap,solo,fast,mild,Bánh Mì
+trua,mid,solo,grill,mild,Cơm Tấm
+toi,high,family,grill,mild,Thịt Nướng BBQ
+trua,cheap,couple,fast,none,Cơm Chiên Dương Châu
